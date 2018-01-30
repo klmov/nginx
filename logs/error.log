@@ -1,0 +1,4 @@
+2018/01/30 12:40:08 [emerg] 23787#0: "worker_connections" directive is not allowed here in /home/klmv/nginx/conf/nginx.conf:4
+2018/01/30 12:40:35 [emerg] 23854#0: "worker_connections" directive is not allowed here in /home/klmv/nginx/conf/nginx.conf:4
+2018/01/30 12:42:22 [emerg] 23905#0: "worker_connections" directive is not allowed here in /home/klmv/nginx/conf/nginx.conf:4
+2018/01/30 12:42:28 [emerg] 23957#0: "worker_connections" directive is not allowed here in /home/klmv/nginx/conf/nginx.conf:4
