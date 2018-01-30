@@ -364,3 +364,7 @@
 192.168.122.1 - klmv [30/Jan/2018:18:36:16 +0300] "GET /status HTTP/1.1" 200 128912 "http://192.168.122.1:8080/" "Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0"
 192.168.122.1 - klmv [30/Jan/2018:18:36:16 +0300] "GET /status/format/json HTTP/1.1" 200 1916 "http://192.168.122.1:8080/status" "Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0"
 192.168.122.1 - klmv [30/Jan/2018:18:36:17 +0300] "GET /status/format/json HTTP/1.1" 200 1940 "http://192.168.122.1:8080/status" "Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0"
+192.168.122.1 - klmv [30/Jan/2018:18:47:10 +0300] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0"
+192.168.122.1 - klmv [30/Jan/2018:18:47:10 +0300] "GET /bodyback.png HTTP/1.1" 304 0 "http://192.168.122.1:8080/" "Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0"
+192.168.122.1 - klmv [30/Jan/2018:18:47:11 +0300] "GET /status HTTP/1.1" 200 128912 "http://192.168.122.1:8080/" "Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0"
+192.168.122.1 - klmv [30/Jan/2018:18:47:11 +0300] "GET /status/format/json HTTP/1.1" 200 2039 "http://192.168.122.1:8080/status" "Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0"
