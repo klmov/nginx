@@ -2,3 +2,27 @@
 2018/01/30 12:40:35 [emerg] 23854#0: "worker_connections" directive is not allowed here in /home/klmv/nginx/conf/nginx.conf:4
 2018/01/30 12:42:22 [emerg] 23905#0: "worker_connections" directive is not allowed here in /home/klmv/nginx/conf/nginx.conf:4
 2018/01/30 12:42:28 [emerg] 23957#0: "worker_connections" directive is not allowed here in /home/klmv/nginx/conf/nginx.conf:4
+2018/01/30 17:51:58 [emerg] 27979#0: invalid parameter "server-name" in /home/klmv/nginx/conf/vhosts/backend.conf:3
+2018/01/30 17:52:21 [emerg] 28035#0: invalid parameter "server-name" in /home/klmv/nginx/conf/vhosts/backend.conf:3
+2018/01/30 17:52:50 [error] 28089#0: *1 open() "/home/klmv/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
+2018/01/30 17:52:52 [error] 28089#0: *1 open() "/home/klmv/nginx/html/status" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /status HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2018/01/30 17:54:53 [emerg] 28223#0: unknown directive "server-name" in /home/klmv/nginx/conf/vhosts/backend.conf:3
+2018/01/30 17:56:02 [emerg] 28309#0: unknown directive "server-name" in /home/klmv/nginx/conf/vhosts/backend.conf:3
+2018/01/30 17:59:17 [emerg] 28542#0: unknown directive "server-name" in /home/klmv/nginx/conf/vhosts/backend.conf:3
+2018/01/30 18:00:30 [emerg] 28613#0: unknown directive "server-name" in /home/klmv/nginx/conf/vhosts/backend.conf:3
+2018/01/30 18:01:46 [error] 28699#0: *1 open() "/home/klmv/nginx/html/pictures/01.jpg" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /pictures/01.jpg HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2018/01/30 18:03:44 [emerg] 28932#0: unknown directive "server-name" in /home/klmv/nginx/conf/vhosts/backend.conf:3
+2018/01/30 18:04:17 [emerg] 28987#0: unknown directive "server-name" in /home/klmv/nginx/conf/vhosts/backend.conf:3
+2018/01/30 18:05:14 [emerg] 29086#0: unknown directive "server-name" in /home/klmv/nginx/conf/vhosts/backend.conf:3
+2018/01/30 18:07:29 [emerg] 29162#0: unknown directive "server-name" in /home/klmv/nginx/conf/vhosts/backend.conf:3
+2018/01/30 18:08:11 [emerg] 29224#0: open() "/home/klmv/nginx/conf/conf/vhosts/backend.conf" failed (2: No such file or directory) in /home/klmv/nginx/conf/nginx.conf:20
+2018/01/30 18:08:56 [emerg] 29277#0: open() "/home/klmv/nginx/conf/conf/vhosts/backend.conf" failed (2: No such file or directory) in /home/klmv/nginx/conf/nginx.conf:20
+2018/01/30 18:09:30 [emerg] 29332#0: unknown directive "server-name" in /home/klmv/nginx/conf/vhosts/backend.conf:3
+2018/01/30 18:10:00 [error] 29393#0: *1 directory index of "/home/klmv/nginx/html/resources/pictures/" is forbidden, client: 192.168.122.1, server: 192.168.122.1, request: "GET /pictures/ HTTP/1.1", host: "192.168.122.1:8080"
+2018/01/30 18:10:00 [error] 29393#0: *1 open() "/home/klmv/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.1, request: "GET /favicon.ico HTTP/1.1", host: "192.168.122.1:8080"
+2018/01/30 18:10:28 [error] 29393#0: *1 directory index of "/home/klmv/nginx/html/resources/pictures/" is forbidden, client: 192.168.122.1, server: 192.168.122.1, request: "GET /pictures/ HTTP/1.1", host: "192.168.122.1:8080"
+2018/01/30 18:19:14 [error] 29624#0: *1 open() "/home/klmv/nginx/html/35435" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.1, request: "GET /35435 HTTP/1.1", host: "192.168.122.1:8080"
+2018/01/30 18:19:21 [error] 29624#0: *1 open() "/home/klmv/nginx/html/35435" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.1, request: "GET /35435 HTTP/1.1", host: "192.168.122.1:8080"
+2018/01/30 18:21:10 [error] 29710#0: *1 directory index of "/home/klmv/nginx/html/resources/pictures/" is forbidden, client: 192.168.122.1, server: 192.168.122.1, request: "GET /pictures/ HTTP/1.1", host: "192.168.122.1:8080"
+2018/01/30 18:31:20 [error] 29977#0: *1 open() "/home/klmv/nginx/html/42" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.1, request: "GET /42 HTTP/1.1", host: "192.168.122.1:8080"
+2018/01/30 18:31:24 [error] 29977#0: *1 open() "/home/klmv/nginx/html/23423432" failed (2: No such file or directory), client: 192.168.122.1, server: 192.168.122.1, request: "GET /23423432 HTTP/1.1", host: "192.168.122.1:8080"
